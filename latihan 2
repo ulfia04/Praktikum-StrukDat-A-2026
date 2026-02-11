@@ -1,0 +1,27 @@
+nilai = [75, 80, 65, 90, 85]
+list1 = ["nilai tertinggi", "nilai terendah", "jumlah data"]
+list2 = [75, 80, 65, 90, 85, 95]
+print = 65
+print(list1)
+print(list2)
+
+
+#dosen = ("D001", "Dr. Andi", "Struktur Data", 12)
+#angka terakhir menunjukan jumlah SKS yang diampu.
+
+thistuple = ("DOO1", "Dr. Andi", "Struktur Data")
+thislupe = ("nama dosen", "mata kuliah",)
+for in integer (thistuple)
+print (thistuple)
+
+
+#keahlian_A = {"Python", "Java", "SQL", "Git"}
+keahlian_B = {"Python", "C++", "Git", "Docker"}
+
+
+
+
+
+
+
+
